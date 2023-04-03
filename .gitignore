@@ -1,0 +1,15 @@
+.idea/
+cmake-build-*/
+build/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+saved_models/
+*.pkl
+out.txt
+run.txt
