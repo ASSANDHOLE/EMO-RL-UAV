@@ -1,6 +1,6 @@
 # Evolutionary Multi-Objective Deep Reinforcement Learning for Autonomous UAV Navigation in Large-Scale Complex Environments
 
-The implementation of the proposed framework in [Evolutionary Multi-Objective Deep Reinforcement Learning for Autonomous UAV Navigation in Large-Scale Complex Environments](https://doi.org/10.1145/3583131.3590446).
+The implementation of the proposed framework in [Evolutionary Multi-Objective Deep Reinforcement Learning for Autonomous UAV Navigation in Large-Scale Complex Environments](https://dl.acm.org/doi/abs/10.1145/3583131.3590446).
 
 ## Notes
 This program requires a long time to run, with the current settings,
